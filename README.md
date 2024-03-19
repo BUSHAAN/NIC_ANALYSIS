@@ -16,4 +16,6 @@ git clone https://github.com/BUSHAAN/NIC_ANALYSIS.git
 ```
 2. Run ID.exe
 
+## Preview
+<img src="screenshot.jpg?raw=true" width="700">
 
